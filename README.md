@@ -13,7 +13,6 @@ A boiler for building react native apps with Navigation
 <h1 align="center"> React Native boilerplate </h1>
 
 <p align="center">
-  <img alt="Bundle Size" src="https://badgen.net/bundlephobia/minzip/magmel"/>
   <img alt="MIT License" src="https://img.shields.io/github/license/chakra-ui/chakra-ui"/>  
   <img alt="Spectrum" src="https://badgen.net/github/last-commit/eustacequartey/react-native-navigation-boilerplate" />
 </p>
@@ -26,6 +25,12 @@ Clone this repository and then type:
 ```
 $ cd react-native-navigation-boilerplate
 ```
+After, type this to install all dependencies
 ```
 $ yarn
+```
+Then finally, this to start the project
+
+```
+$ yarn start
 ```
