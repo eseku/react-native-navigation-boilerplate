@@ -6,7 +6,7 @@ A boiler for building react native apps with Navigation
 
 <p align="center">
   <a href="">
-    <img src="https://reactjs.org/logo-og.png" alt="emoji" width="150" />
+    <img src="https://cdn.clipart.email/8a7dba5c2c78eced297fb207c11c470e_js-logo-react-react-js-icon_512-512.png" alt="react native logo" width="150" />
   </a>
 </p>
 
