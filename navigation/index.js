@@ -5,7 +5,7 @@ import AppNavigator from "./AppFront/index"
 
 
 const index = () => {
-    const isLoggedIn = false;
+    let isLoggedIn = true;
 
     return (
         <>
