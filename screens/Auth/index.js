@@ -1,0 +1,1 @@
+export {default as GetStartedPage} from "./GetStartedPage"
