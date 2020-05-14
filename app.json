@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "covers",
-    "slug": "covers",
+    "name": "react-native-navigation-boilerplate",
+    "slug": "react-native-navigation-boilerplate",
     "platforms": [
       "ios",
       "android",
